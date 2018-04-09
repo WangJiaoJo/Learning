@@ -5,3 +5,5 @@ Git tracks change.
 Git.
 Creating a new branch is quick and simple.
 Add merge.
+Bug Fix.
+Learning.
